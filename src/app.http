@@ -1,0 +1,17 @@
+###
+
+GET  http://localhost:8081/api/invoice
+
+
+###
+
+POST  http://localhost:8081/api/invoice
+
+{
+  "invoiceDate": "2023-07-25",
+  "invoiceAmount": 3000,
+  "invoiceNUmber": 2
+}
+
+
+

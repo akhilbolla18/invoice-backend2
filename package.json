@@ -8,16 +8,12 @@
     "start": "node src/server"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aakashvani/invoice-api.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aakashvani/invoice-api/issues"
-  },
-  "homepage": "https://github.com/Aakashvani/invoice-api#readme",
+  "bugs": {},
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",

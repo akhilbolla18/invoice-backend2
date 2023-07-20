@@ -1,10 +1,10 @@
 const express = require("express");
 const {
-  getAllInvoice,
-  creatingInvoice,
-  updateInvoice,
-  deleteInvoice,
-  getByDate,
+    getAllInvoice,
+    creatingInvoice,
+    updateInvoice,
+    deleteInvoice,
+    getByDate,
 } = require("../controllers/invoiceController");
 
 // middleware for validation
