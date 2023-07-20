@@ -8,12 +8,16 @@
     "start": "node src/server"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/akhilbolla18/invoice-backend2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {},
+  "bugs": {
+    "url": "https://github.com/akhilbolla18/invoice-backend2/issues"
+  },
+  "homepage": "https://github.com/akhilbolla18/invoice-backend2#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
